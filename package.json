@@ -1,7 +1,7 @@
 {
   "name": "obj-query",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a single-level nested object to a querystring compatible representation",
   "license": "MIT",
   "repository": "bendrucker/obj-query",
