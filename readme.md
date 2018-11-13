@@ -1,4 +1,4 @@
-# obj-query [![Build Status](https://travis-ci.org/bendrucker/obj-query.svg?branch=master)](https://travis-ci.org/bendrucker/obj-query)
+# obj-query [![Build Status](https://travis-ci.org/bendrucker/obj-query.svg?branch=master)](https://travis-ci.org/bendrucker/obj-query) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/obj-query.svg)](https://greenkeeper.io/)
 
 > Convert a single-level nested object to a querystring compatible representation
 
